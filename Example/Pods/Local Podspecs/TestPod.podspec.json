@@ -1,0 +1,22 @@
+{
+  "name": "TestPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Omar Ibrahim/TestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Omar Ibrahim": "oibrahim@youxel.com"
+  },
+  "source": {
+    "git": "https://github.com/Omar Ibrahim/TestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestPod/Classes/**/*"
+}
